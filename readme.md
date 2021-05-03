@@ -13,7 +13,8 @@ Git clone the repo to find the structure of the app.
 >3. Flask    '1.1.2'  
 >4. Pip      '21.1.1'  
 >5. Pytest   '6.2.3'  
->6. Coverage '5.5'
+>6. Coverage '5.5'  
+>7. Sqlite3
 
 **Follow this for basic setup installation guide(not pytest and coverage) [Installation Guide](https://flask.palletsprojects.com/en/1.1.x/installation/#installation)**
 
